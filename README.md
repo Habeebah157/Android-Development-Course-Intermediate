@@ -4,7 +4,7 @@ Submitted by: *Habeebah Muse*
 
 **Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
