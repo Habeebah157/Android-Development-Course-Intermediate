@@ -33,7 +33,7 @@ GIF created with Recordit.co
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 My Toast was not working for a while but I was able to fix it by changing the emulator. 
 
 ## License
